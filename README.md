@@ -1,4 +1,4 @@
-# dailytask
+# dailytask 👨🏻‍💻😶‍🌫️
 
 Daily Task & JavaScript Problem-Solving Repo
 Welcome to my Daily Task and JavaScript Problem-Solving repository! This repo serves two primary purposes:
