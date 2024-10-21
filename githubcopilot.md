@@ -1,122 +1,146 @@
-Beginner Level
-Introduction to JavaScript
+# JavaScript Learning Roadmap
 
-What is JavaScript?
-Setting up the development environment (VS Code, Node.js)
-Basic syntax and data types (strings, numbers, booleans)
-Basic Programming Concepts
+## Beginner Level
 
-Variables and constants
-Operators (arithmetic, comparison, logical)
-Control structures (if-else, switch-case)
-Loops (for, while, do-while)
-Functions
+### Introduction to JavaScript
+- **What is JavaScript?**
+- **Setting up the Development Environment:**
+  - Install [VS Code](https://code.visualstudio.com/)
+  - Install [Node.js](https://nodejs.org/)
 
-Function declaration and expression
-Arrow functions
-Parameters and return values
-Scope and closures
-Objects and Arrays
+### Basic Syntax and Data Types
+- **Data Types:** Strings, Numbers, Booleans
 
-Creating and manipulating objects
-Arrays and array methods (push, pop, map, filter, reduce)
-JSON format
-Intermediate Level
-DOM Manipulation
+### Basic Programming Concepts
+- **Variables and Constants**
+- **Operators:**
+  - Arithmetic
+  - Comparison
+  - Logical
+- **Control Structures:**
+  - `if-else`
+  - `switch-case`
+- **Loops:**
+  - `for`
+  - `while`
+  - `do-while`
 
-Selecting elements (getElementById, querySelector)
-Modifying elements (innerHTML, style)
-Event handling (addEventListener)
-ES6+ Features
+### Functions
+- **Function Declaration and Expression**
+- **Arrow Functions**
+- **Parameters and Return Values**
+- **Scope and Closures**
 
-Let and const
-Template literals
-Destructuring
-Spread and rest operators
-Classes and inheritance
-Modules (import/export)
-Asynchronous JavaScript
+### Objects and Arrays
+- **Creating and Manipulating Objects**
+- **Arrays and Array Methods:**
+  - `push`, `pop`
+  - `map`, `filter`, `reduce`
+- **JSON Format**
 
-Callbacks
-Promises
-Async/Await
-Fetch API
-Error Handling
+## Intermediate Level
 
-Try-catch blocks
-Custom errors
-Advanced Level
-Advanced Functions
+### DOM Manipulation
+- **Selecting Elements:**
+  - `getElementById`
+  - `querySelector`
+- **Modifying Elements:**
+  - `innerHTML`
+  - `style`
+- **Event Handling:**
+  - `addEventListener`
 
-Higher-order functions
-Currying
-Memoization
-Advanced Object Concepts
+### ES6+ Features
+- **Let and Const**
+- **Template Literals**
+- **Destructuring**
+- **Spread and Rest Operators**
+- **Classes and Inheritance**
+- **Modules (Import/Export)**
 
-Prototypes and inheritance
-The this keyword
-Closures
-Web APIs
+### Asynchronous JavaScript
+- **Callbacks**
+- **Promises**
+- **Async/Await**
+- **Fetch API**
 
-LocalStorage and SessionStorage
-Geolocation API
-Canvas API
-Frameworks and Libraries
+### Error Handling
+- **Try-Catch Blocks**
+- **Custom Errors**
 
-Introduction to React
-State management with Redux
-Building applications with Node.js and Express
-Testing
+## Advanced Level
 
-Unit testing with Jest
-Integration testing
-End-to-end testing with Cypress
-Build Tools
+### Advanced Functions
+- **Higher-Order Functions**
+- **Currying**
+- **Memoization**
 
-Module bundlers (Webpack, Vite)
-Task runners (Gulp, npm scripts)
-Linters and formatters (ESLint, Prettier)
-Performance Optimization
+### Advanced Object Concepts
+- **Prototypes and Inheritance**
+- **The `this` Keyword**
+- **Closures**
 
-Code splitting
-Lazy loading
-Debouncing and throttling
-Documentation Structure
-Introduction
+### Web APIs
+- **LocalStorage and SessionStorage**
+- **Geolocation API**
+- **Canvas API**
 
-Overview of JavaScript
-Setting up the environment
-Basic Concepts
+### Frameworks and Libraries
+- **Introduction to React**
+- **State Management with Redux**
+- **Building Applications with Node.js and Express**
 
-Variables, data types, operators
-Control structures and loops
-Functions and Scope
+### Testing
+- **Unit Testing with Jest**
+- **Integration Testing**
+- **End-to-End Testing with Cypress**
 
-Function types, scope, closures
-Objects and Arrays
+### Build Tools
+- **Module Bundlers:** Webpack, Vite
+- **Task Runners:** Gulp, npm scripts
+- **Linters and Formatters:** ESLint, Prettier
 
-Object manipulation, array methods
-DOM and Events
+### Performance Optimization
+- **Code Splitting**
+- **Lazy Loading**
+- **Debouncing and Throttling**
 
-DOM manipulation, event handling
-Modern JavaScript (ES6+)
+## Documentation Structure
 
-New syntax and features
-Asynchronous Programming
+### Introduction
+- Overview of JavaScript
+- Setting up the Environment
 
-Callbacks, promises, async/await
-Error Handling
+### Basic Concepts
+- Variables, Data Types, Operators
+- Control Structures and Loops
 
-Try-catch, custom errors
-Advanced Topics
+### Functions and Scope
+- Function Types, Scope, Closures
 
-Higher-order functions, prototypes
-Web APIs and Frameworks
+### Objects and Arrays
+- Object Manipulation, Array Methods
 
-Using Web APIs, introduction to React
-Testing and Build Tools
+### DOM and Events
+- DOM Manipulation, Event Handling
 
-Unit testing, build tools
-Performance Optimization
+### Modern JavaScript (ES6+)
+- New Syntax and Features
 
-Techniques for optimizing performance
+### Asynchronous Programming
+- Callbacks, Promises, Async/Await
+
+### Error Handling
+- Try-Catch, Custom Errors
+
+### Advanced Topics
+- Higher-Order Functions, Prototypes
+
+### Web APIs and Frameworks
+- Using Web APIs, Introduction to React
+
+### Testing and Build Tools
+- Unit Testing, Build Tools
+
+### Performance Optimization
+- Techniques for Optimizing Performance
