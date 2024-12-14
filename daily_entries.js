@@ -186,3 +186,11 @@ function isPrime(num) {
 function sigmoid(x) {
     return 1 / (1 + Math.exp(-x));
 }
+
+// Entry added at 2024-12-14T07:18:20.185Z
+// Topic: AI
+
+// Simple neural network activation function
+function sigmoid(x) {
+    return 1 / (1 + Math.exp(-x));
+}
