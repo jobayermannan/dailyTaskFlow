@@ -531,3 +531,11 @@ class Block {
         this.hash = this.calculateHash();
     }
 }
+
+// Entry added at 2024-12-14T07:21:10.995Z
+// Topic: AI
+
+// Simple neural network activation function
+function sigmoid(x) {
+    return 1 / (1 + Math.exp(-x));
+}
