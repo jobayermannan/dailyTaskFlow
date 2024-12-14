@@ -441,3 +441,11 @@ function isPrime(num) {
     }
     return num > 1;
 }
+
+// Entry added at 2024-12-14T07:20:30.342Z
+// Topic: AI
+
+// Simple neural network activation function
+function sigmoid(x) {
+    return 1 / (1 + Math.exp(-x));
+}
