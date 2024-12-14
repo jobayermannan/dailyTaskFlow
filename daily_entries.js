@@ -611,3 +611,14 @@ class Block {
 function sigmoid(x) {
     return 1 / (1 + Math.exp(-x));
 }
+
+// Entry added at 2024-12-14T07:21:54.498Z
+// Topic: Prime Numbers
+
+// Function to check if a number is prime
+function isPrime(num) {
+    for(let i = 2; i <= Math.sqrt(num); i++) {
+        if(num % i === 0) return false;
+    }
+    return num > 1;
+}
