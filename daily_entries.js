@@ -829,3 +829,16 @@ function sigmoid(x) {
 function sigmoid(x) {
     return 1 / (1 + Math.exp(-x));
 }
+
+// Entry added at 2024-12-14T07:23:39.953Z
+// Topic: Blockchain
+
+// Simple blockchain block structure
+class Block {
+    constructor(timestamp, data, previousHash = '') {
+        this.timestamp = timestamp;
+        this.data = data;
+        this.previousHash = previousHash;
+        this.hash = this.calculateHash();
+    }
+}
