@@ -4,7 +4,7 @@ const path = require('path');
 
 // Configuration
 const FILE_PATH = 'daily_entries.js';
-const COMMIT_COUNT = 10; // Number of commits per day
+const COMMIT_COUNT = 100; // Number of commits per day
 
 // Array of possible code snippets and comments
 const codeSnippets = [

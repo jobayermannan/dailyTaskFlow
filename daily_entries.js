@@ -116,3 +116,16 @@ class Block {
         this.hash = this.calculateHash();
     }
 }
+
+// Entry added at 2024-12-14T07:17:43.962Z
+// Topic: Blockchain
+
+// Simple blockchain block structure
+class Block {
+    constructor(timestamp, data, previousHash = '') {
+        this.timestamp = timestamp;
+        this.data = data;
+        this.previousHash = previousHash;
+        this.hash = this.calculateHash();
+    }
+}
