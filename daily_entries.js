@@ -398,3 +398,16 @@ function isPrime(num) {
     }
     return num > 1;
 }
+
+// Entry added at 2024-12-14T07:20:05.833Z
+// Topic: Blockchain
+
+// Simple blockchain block structure
+class Block {
+    constructor(timestamp, data, previousHash = '') {
+        this.timestamp = timestamp;
+        this.data = data;
+        this.previousHash = previousHash;
+        this.hash = this.calculateHash();
+    }
+}
