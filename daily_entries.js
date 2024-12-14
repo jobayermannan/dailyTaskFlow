@@ -507,3 +507,14 @@ class Block {
         this.hash = this.calculateHash();
     }
 }
+
+// Entry added at 2024-12-14T07:20:59.784Z
+// Topic: Prime Numbers
+
+// Function to check if a number is prime
+function isPrime(num) {
+    for(let i = 2; i <= Math.sqrt(num); i++) {
+        if(num % i === 0) return false;
+    }
+    return num > 1;
+}
